@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy David
 
-<!--
-**daovez/daovez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer en formación.
 
-Here are some ideas to get you started:
+🚀 Apasionado por el desarrollo web, la automatización y la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Amante de los videojuegos y las experiencias digitales.
+
+🌱 Creando proyectos reales y aprendiendo cada día.
+
+## 🛠️ Tecnologías
+
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+* Java
+
+## 🚀 Proyectos
+
+* 🌐 daovez.dev
+* 🎨 daovezstudio.com
+* 💡 Proyectos personales y experimentos
+
+## 🎯 Actualmente
+
+* Aprendiendo desarrollo Full Stack
+* Mejorando mis habilidades con Git y GitHub
+* Construyendo proyectos reales
+
+## 📫 Contacto
+
+* 🌍 https://daovez.dev
+* 💼 LinkedIn
