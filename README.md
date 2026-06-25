@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/daovez/daovez/main/banner.jpg" alt="Banner de David López" width="100%">
+![Banner](https://raw.githubusercontent.com/daovez/daovez/main/banner.webp)
 # 👋 Hola, soy David Lopez Velasco
 
 💻 Full-Stack Developer en formación.
