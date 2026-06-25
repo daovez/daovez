@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/daovez/daovez/main/banner.webp)
+![Banner](banner.jpg)
 # 👋 Hola, soy David Lopez Velasco
 
 💻 Full-Stack Developer en formación.
