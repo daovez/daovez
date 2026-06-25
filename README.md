@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Banner de David Lopez" width="100%">
+</p>
 # 👋 Hola, soy David Lopez Velasco
 
 💻 Full-Stack Developer en formación.
