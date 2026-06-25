@@ -1,15 +1,16 @@
 ![Banner](banner.jpg)
-# 👋 Hola, soy David Lopez Velasco
 
-💻 Full-Stack Developer en formación.
+# Hola, soy David Lopez Velasco
 
-🚀 Apasionado por el desarrollo web, la automatización y la tecnología.
+Full-Stack Developer en formación.
 
-🎮 Amante de los videojuegos y las experiencias digitales.
+Apasionado por el desarrollo web, la automatización y la tecnología.
 
-🌱 Creando proyectos reales y aprendiendo cada día.
+Amante de los videojuegos y las experiencias digitales.
 
-## 🛠️ Tecnologías
+Creando proyectos reales y aprendiendo cada día.
+
+## Tecnologías
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -17,31 +18,32 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-* 🌐 daovez.dev
-* 🎨 daovezstudio.com
-* 💡 Proyectos personales y experimentos
+* daovez.dev
+* daovezstudio.com
+* Proyectos personales y experimentos
 
-## 🎯 Actualmente
+## Actualmente
 
 * Aprendiendo desarrollo Full Stack
 * Mejorando mis habilidades con Git y GitHub
 * Construyendo proyectos reales
 * Explorando el desarrollo de aplicaciones y videojuegos
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daovez\&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daovez\&layout=compact)
 
-## 📫 Contacto
+## Contacto
 
-* 🌍 https://daovez.dev
-* 💼 LinkedIn: [www.linkedin.com/in/david-lopez-velasco](http://www.linkedin.com/in/david-lopez-velasco)
+* https://daovez.dev
+* https://www.linkedin.com/in/david-lopez-velasco
 
 ---
 
 > "La mejor forma de aprender es construyendo proyectos reales."
+
 
