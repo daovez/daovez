@@ -1,4 +1,4 @@
-![Banner](1.webp)
+![Banner](banner.webp)
 # 👋 Hola, soy David Lopez Velasco
 
 💻 Full-Stack Developer en formación.
