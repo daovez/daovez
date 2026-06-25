@@ -1,4 +1,4 @@
-![Banner](banner.webp)
+![Banner](banner.jpg)
 # 👋 Hola, soy David Lopez Velasco
 
 💻 Full-Stack Developer en formación.
