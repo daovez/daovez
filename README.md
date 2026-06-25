@@ -1,4 +1,4 @@
-![Banner](banner.webp)
+![Banner](Perfilgithub.webp)
 # 👋 Hola, soy David Lopez Velasco
 
 💻 Full-Stack Developer en formación.
