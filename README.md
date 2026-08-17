@@ -2,7 +2,7 @@
 
 # Hola, soy David Lopez Velasco
 
-Full-Stack Developer en formación.
+Full-Stack Developer en formación y estudianto grado IA.
 
 Apasionado por el desarrollo web, la automatización y la tecnología.
 
