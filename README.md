@@ -4,7 +4,7 @@
   <img src="banner.jpg" alt="DAOVEZ — Software Development, AI & Automation" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm David López Velasco 👋</h1>
+<h1 align="center">Hi, I'm David López Velasco</h1>
 <p align="center">
   <strong>Software Developer · AI Engineering Student</strong><br />
   Based in Málaga, Spain 🇪🇸
