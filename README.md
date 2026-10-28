@@ -1,7 +1,7 @@
 <!-- GitHub profile README — repository: github.com/daovez/daovez -->
 
 <p align="center">
-  <img src="banner.jpg" alt="DAOVEZ — Software Development, AI & Automation" width="100%" />
+  <img src="banner.png" alt="DAOVEZ — Software Development, AI & Automation" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm David López Velasco</h1>
